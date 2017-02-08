@@ -127,6 +127,13 @@ padding: 5px;
         padding-right:5px;
     }
 
+b {
+    font-size:18px;
+}
+.skill_info{
+    text-align: left;
+    font-size:15px;
+}
 
 .contact_details{
     color:#000;
